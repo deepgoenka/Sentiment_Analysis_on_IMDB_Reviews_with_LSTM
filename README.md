@@ -1,4 +1,4 @@
-# IMDB Movie Reviews Sentiment Analysis
+# Sentiment Analysis on IMDB Movie Reviews with LSTM
 
 This project focuses on sentiment analysis of IMDB movie reviews using deep learning techniques. It involves building a model to classify movie reviews as positive or negative based on the sentiment expressed in the text.
 
